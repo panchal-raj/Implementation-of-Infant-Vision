@@ -7,7 +7,6 @@ This project is developed as a submission for the Computational Visual Perceptio
 - Clone the repository. Create a virtual env using the command `python3 -m venv /path/to/new/virtual/environment`.
 - Refer to the [documentation](https://docs.python.org/3/library/venv.html) for more details.
 - Install the requirements using the command `pip install -r requirements.txt`.
-- Use command `python main.py` to run the script.
 
 ## Task1: Properties Implemented
 
@@ -31,7 +30,10 @@ Contrast sensitivity is the ability to detect differences in luminance or color 
 In this part of the project, we have applied image transformations, namely visual acuity and contrast sensitivity, to the TinyImageNet dataset and have trained them on a CustomResNet18 model using curriculum learning.
 
 **Developmental Curriculum:** 
+
 Curriculum learning, inspired by human education, gradually introduces tasks of increasing complexity or specificity, facilitating better learning progression. 
 By gradually introducing age-specific data, the model systematically learns developmental visual patterns across age groups.
 
 <img src="Task2\img\DevelopmentalCurriculum.png" width=900 height=400>
+
+## Task3: --- Upcoming !! -------- 
